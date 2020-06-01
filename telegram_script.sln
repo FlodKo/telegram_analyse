@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "telegram_script", "telegram_script\telegram_script.csproj", "{3DD49B71-D9FA-4ADE-B7EF-9F301CB881D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DD49B71-D9FA-4ADE-B7EF-9F301CB881D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DD49B71-D9FA-4ADE-B7EF-9F301CB881D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DD49B71-D9FA-4ADE-B7EF-9F301CB881D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DD49B71-D9FA-4ADE-B7EF-9F301CB881D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

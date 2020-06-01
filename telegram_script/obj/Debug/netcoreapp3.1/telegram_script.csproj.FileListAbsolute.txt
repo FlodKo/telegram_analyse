@@ -1,0 +1,13 @@
+/home/cat/RiderProjects/telegram_script/telegram_script/bin/Debug/netcoreapp3.1/telegram_script
+/home/cat/RiderProjects/telegram_script/telegram_script/bin/Debug/netcoreapp3.1/telegram_script.deps.json
+/home/cat/RiderProjects/telegram_script/telegram_script/bin/Debug/netcoreapp3.1/telegram_script.runtimeconfig.json
+/home/cat/RiderProjects/telegram_script/telegram_script/bin/Debug/netcoreapp3.1/telegram_script.runtimeconfig.dev.json
+/home/cat/RiderProjects/telegram_script/telegram_script/bin/Debug/netcoreapp3.1/telegram_script.dll
+/home/cat/RiderProjects/telegram_script/telegram_script/bin/Debug/netcoreapp3.1/telegram_script.pdb
+/home/cat/RiderProjects/telegram_script/telegram_script/obj/Debug/netcoreapp3.1/telegram_script.csprojAssemblyReference.cache
+/home/cat/RiderProjects/telegram_script/telegram_script/obj/Debug/netcoreapp3.1/telegram_script.csproj.CoreCompileInputs.cache
+/home/cat/RiderProjects/telegram_script/telegram_script/obj/Debug/netcoreapp3.1/telegram_script.AssemblyInfoInputs.cache
+/home/cat/RiderProjects/telegram_script/telegram_script/obj/Debug/netcoreapp3.1/telegram_script.AssemblyInfo.cs
+/home/cat/RiderProjects/telegram_script/telegram_script/obj/Debug/netcoreapp3.1/telegram_script.dll
+/home/cat/RiderProjects/telegram_script/telegram_script/obj/Debug/netcoreapp3.1/telegram_script.pdb
+/home/cat/RiderProjects/telegram_script/telegram_script/obj/Debug/netcoreapp3.1/telegram_script.genruntimeconfig.cache
