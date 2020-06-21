@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "1SRxXulNrVNgtDfo7Csdseszcaq/KwxhVGB662Y1jle14OYByaxVyPm7Vdd6VoOLo0+GlolrEN4NbA+QYOq1ZA==",
+  "dgSpecHash": "vz/R0ae2WVqOjmtlg7p/dZXrYVZnOph4efKWdK5IEd1DlEOUStceLUJFvNWPm7mVUUOVgLIxqpmEGf0SyOjU1A==",
   "success": true,
-  "projectFilePath": "/home/cat/RiderProjects/telegram_script/telegram_script/telegram_script.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/cat/Documents/Programmieren/Git/telegram_analyse/telegram_script/telegram_script.csproj",
+  "expectedPackageFiles": [
+    "/home/cat/.nuget/packages/google.apis/1.46.0/google.apis.1.46.0.nupkg.sha512",
+    "/home/cat/.nuget/packages/google.apis.auth/1.46.0/google.apis.auth.1.46.0.nupkg.sha512",
+    "/home/cat/.nuget/packages/google.apis.core/1.46.0/google.apis.core.1.46.0.nupkg.sha512",
+    "/home/cat/.nuget/packages/google.apis.youtube.v3/1.46.0.1994/google.apis.youtube.v3.1.46.0.1994.nupkg.sha512",
+    "/home/cat/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/cat/RiderProjects/telegram_script/telegram_script/telegram_script.csproj": {}
+    "/home/cat/Documents/Programmieren/Git/telegram_analyse/telegram_script/telegram_script.csproj": {}
   },
   "projects": {
-    "/home/cat/RiderProjects/telegram_script/telegram_script/telegram_script.csproj": {
+    "/home/cat/Documents/Programmieren/Git/telegram_analyse/telegram_script/telegram_script.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/cat/RiderProjects/telegram_script/telegram_script/telegram_script.csproj",
+        "projectUniqueName": "/home/cat/Documents/Programmieren/Git/telegram_analyse/telegram_script/telegram_script.csproj",
         "projectName": "telegram_script",
-        "projectPath": "/home/cat/RiderProjects/telegram_script/telegram_script/telegram_script.csproj",
+        "projectPath": "/home/cat/Documents/Programmieren/Git/telegram_analyse/telegram_script/telegram_script.csproj",
         "packagesPath": "/home/cat/.nuget/packages/",
-        "outputPath": "/home/cat/RiderProjects/telegram_script/telegram_script/obj/",
+        "outputPath": "/home/cat/Documents/Programmieren/Git/telegram_analyse/telegram_script/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/cat/.nuget/NuGet/NuGet.Config"
@@ -35,6 +35,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Google.Apis.YouTube.v3": {
+              "target": "Package",
+              "version": "[1.46.0.1994, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -50,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/3.1.300/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/3.1.301/RuntimeIdentifierGraph.json"
         }
       }
     }
