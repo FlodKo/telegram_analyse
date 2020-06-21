@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "24tkGADiBWyWJM6a3yDmt5b8GdJwOW2W/UkT4w00/B3Ms7NYENpXjxFH7tnlBpZzVYGgPkUNyVGDVYlbZQ3NvA==",
+  "success": true,
+  "projectFilePath": "/home/cat/Documents/Programmieren/Git/telegram_analyse/telegram_script/telegram_script.csproj",
+  "expectedPackageFiles": [
+    "/home/cat/.nuget/packages/google.apis/1.46.0/google.apis.1.46.0.nupkg.sha512",
+    "/home/cat/.nuget/packages/google.apis.auth/1.46.0/google.apis.auth.1.46.0.nupkg.sha512",
+    "/home/cat/.nuget/packages/google.apis.core/1.46.0/google.apis.core.1.46.0.nupkg.sha512",
+    "/home/cat/.nuget/packages/google.apis.youtube.v3/1.46.0.1994/google.apis.youtube.v3.1.46.0.1994.nupkg.sha512",
+    "/home/cat/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/home/cat/.nuget/packages/microsoft.netcore.app.host.win-x64/3.1.5/microsoft.netcore.app.host.win-x64.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
