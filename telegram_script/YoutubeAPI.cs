@@ -13,7 +13,8 @@ namespace telegram_script
             List<WordCount> list = new List<WordCount>();
             var youtubeService = new YouTubeService(new BaseClientService.Initializer()
             {
-                ApiKey = "AIzaSyCy1A3OpgVhtGP-rcRFN2Y23NJWnAT8JIY",
+                //Api Token
+                ApiKey = "API_TOKEN",
             });
             var searchListRequest = youtubeService.Videos.List("snippet");
             searchListRequest.Id = videoId; // Replace with your search term.
